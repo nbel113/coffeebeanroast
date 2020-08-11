@@ -53,6 +53,19 @@ footer {
 	text-align: center
 }
 
+#tdcoffeebeanroastcolour{
+    width: 80%;
+}
+
+#tdcommentbuttoncell{
+    width: 20%;
+    text-align: left;
+}
+
+#Comments{
+    text-align: center;
+}
+
 #uploadImage{
     float:left
 }
